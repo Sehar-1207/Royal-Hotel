@@ -12,7 +12,6 @@ A comprehensive hotel management system designed to handle reservations, custome
 - [Configuration](#configuration)
 - [Database Schema](#database-schema)
 - [Core Features](#core-features)
-- [API Documentation](#api-documentation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
